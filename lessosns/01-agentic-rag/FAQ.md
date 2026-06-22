@@ -1,7 +1,3 @@
-Got it — let’s rebuild a **clean, submission-ready FAQ for Homework 1 (Agentic RAG / LLM Zoomcamp)**. This should be simple, relevant to the errors you actually hit, and aligned with the course.
-
----
-
 # 📚 Homework 1 FAQ (Agentic RAG)
 
 You can save this as:
