@@ -1,0 +1,18 @@
+.env
+# Python
+__pycache__/
+*.pyc
+.venv/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# HuggingFace / ONNX models
+models/
+*.onnx
+*.bin
+*.safetensors
+
+# OS
+.DS_Store
